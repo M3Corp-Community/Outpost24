@@ -14,6 +14,7 @@ Saiba mais em: </br>
 ## Sobre esse REPO
 Aqui vai encontrar diversos exemplos e tutoriais sobre Outpost24 criados pela equipe da M3Corp</br>
 Em [Outpost24_Integration](https://github.com/M3Corp-Community/Outpost24/tree/main/outpost24_integration) encontrara exemplos scripts para realizar a coleta de dados na API da Outpost e inserir no banco de dados</br>
+Disponibilizamos também alguns templates de PowerBI já configurados com algumas das principais informações sobre as vulnerabilidades encontradas no ambiente em [Templates PowerBI](https://github.com/M3Corp-Community/Outpost24/tree/main/Templates%20PowerBI) </br>
 
 ## Se interessou por Outpost24?
 Entre em contato com a nossa equipe para saber sobre como a Outpost24 pode ajudar seu negocio:</br>
